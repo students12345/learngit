@@ -1,1 +1,1 @@
-Git has a mutable insex called stage
+Git tracks changes
